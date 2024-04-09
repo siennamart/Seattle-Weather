@@ -5,5 +5,5 @@ This project will help us learn skills such as data cleaning and visualization.
 # Data 
 This data is from NOAA ( National Oceanic Atmospheric Association) and measures rain data from January 1, 2020 to January 1, 2024
 The NOAA Climate Data can be found here https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND 
-#Data Preparation 
+# Data Preparation 
 This notebook contain various steps taken to prepare and clean the NOAA rainfall data from New York and Seattle. Some steps taken include filtering for only precipitation data, removing duplicates & null values, joining the data sets, and renaming column and tidying up our data. The notebook with all these steps is: Sienna_Martinez_Seattle_Weather_Data_Preparation.ipynb and the final clean csv file of the data is: SM_clean_seattle_nyc_weather.csv 
